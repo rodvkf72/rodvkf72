@@ -1,16 +1,14 @@
-### Hi there 👋
+## rodvkf72 : Backend Web Service Programmer
 
-<!--
-**rodvkf72/rodvkf72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+어플리케이션부터 웹에 관심이 많으며 풀스택을 지향하는 프로그래머 입니다.
 
-Here are some ideas to get you started:
+## Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Go
+- Java 
+
+## Interest
+
+- Web (main : backend)
+- Android (Native)
+
