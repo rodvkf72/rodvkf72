@@ -15,7 +15,6 @@
 ## Preparing
 
 - Docker
-- 
 
 ## ETC (use in project)
 
