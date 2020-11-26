@@ -11,13 +11,15 @@
 
 - Web (main : backend)
 - Android (Native)
+- Docker
 
 ## Preparing
 
-- Docker
+- Javascript
 
 ## ETC (use in project)
 
 - Language : HTML, CSS, Javascript, Python, PHP
 - Database : MySQL, Oracle DB
 - WAS : Apache Tomcat
+- Service : FCM, Google Map
