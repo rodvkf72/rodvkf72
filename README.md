@@ -10,7 +10,6 @@
 - Go
 - Java 
 <br>
-<br>
 
 ## Interest
 
@@ -18,12 +17,10 @@
 - Android (Native)
 - Docker
 <br>
-<br>
 
 ## Preparing
 
 - Javascript
-<br>
 <br>
 
 ## ETC (use in project)
@@ -32,6 +29,5 @@
 - Database : MySQL, Oracle DB
 - WAS : Apache Tomcat
 - Service : FCM, Google Map
-<br>
 <br>
 
