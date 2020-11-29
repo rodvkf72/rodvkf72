@@ -28,6 +28,6 @@
 - Language : HTML, CSS, Javascript, Python, PHP
 - Database : MySQL, Oracle DB
 - WAS : Apache Tomcat
-- Service : FCM, Google Map
+- Service : FCM, Google Map, Vuforia
 <br>
 
