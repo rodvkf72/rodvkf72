@@ -20,6 +20,7 @@
 
 ## Preparing
 
+- Design Pattern
 - Javascript
 <br>
 
