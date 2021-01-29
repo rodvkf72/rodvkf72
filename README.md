@@ -22,6 +22,7 @@
 
 - Design Pattern
 - Javascript
+- Typescript
 <br>
 
 ## ETC (use in project)
