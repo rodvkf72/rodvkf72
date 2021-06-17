@@ -37,6 +37,7 @@
 
 - OS : Windows 10, CentOS 8
 - Language : Java, HTML, Javascript, FreeMarker
-- Database : MySQL, Oracle
+- Database : MySQL, Oracle, MSSQL, cubrid
+- Framework : Spring, Mybatis, ibatis
 - Tool : DBeaver, HeidiSQL, 개발뷰어, FileZilla, XCP-ng Center, Tomcat, Eclipse, NginX, putty
 <br>
