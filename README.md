@@ -1,43 +1,41 @@
-## rodvkf72 : Backend Web Service Programmer
+## rodvkf72 : 백엔드 웹 서비스 프로그래머
 
 애플리케이션/웹에 관심이 많으며 풀 스택을 지향하는 프로그래머 입니다.
 <br>
 <br>
 <br>
 
-## Main Language
+## 사용 언어
 
 - Go
 - Java 
 <br>
 
-## Interest
+## 개발 관심사
 
-- Web (main : backend)
-- Android (Native)
-- Docker
+- 웹 서비스 (backend)
+- 안드로이드 (Native)
+- 도커
 <br>
 
-## Preparing
+## 공부중
 
-- Design Pattern
-- Javascript
-- Typescript
+- 자바스크립트
+- 블록체인
+- 알고리즘
 <br>
 
-## ETC (use in project)
+## 개발환경
 
-- Language : HTML, CSS, Javascript, Python, PHP
-- Database : MySQL, Oracle DB
-- WAS : Apache Tomcat
-- Service : FCM, Google Map, Vuforia
+- 운영체제 : Windows 10, CentOS 8
+- 언어 : Go, Java, javascript
+- 데이터베이스 : Mysql, MariaDB
+- 웹 애플리케이션 서버 : Tomcat
+- 웹 서버 : Nginx, Apache
 <br>
 
-## Company Util
+## 개발도구
 
-- OS : Windows 10, CentOS 8
-- Language : Java, HTML, Javascript, FreeMarker
-- Database : MySQL, Oracle, MSSQL, cubrid
-- Framework : Spring, Mybatis, ibatis
-- Tool : DBeaver, HeidiSQL, 개발뷰어, FileZilla, XCP-ng Center, Tomcat, Eclipse, NginX, putty, httpd
+- 프레임워크 : Spring(Java), Spring Boot(Java), Echo(Go), Mybatis
+- 사용 툴 : DBeaver, HeidiSQL, 개발뷰어, FileZilla, XCP-ng Center, Eclipse, Visual Studio Code, putty
 <br>
