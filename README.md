@@ -3,7 +3,6 @@
 <center>애플리케이션/웹에 관심이 많으며 풀 스택을 지향하는 프로그래머 입니다.</center>
 <br>
 <br>
-<br>
 
 ### <center>기술스택</center>
 
@@ -16,3 +15,8 @@
 |![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)||![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)|![Tomcat](https://img.shields.io/badge/Apache-Tomcat-brightgreen)|
 
 </center>
+
+<br>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodvkf72&show_icons=true&theme=radical)
