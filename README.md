@@ -1,6 +1,9 @@
-### <div align="center">rodvkf72 : 백엔드 웹 서비스 프로그래머</div>
+### <div align="center">백엔드 웹 서비스 프로그래머</div>
 
 <div align="center">애플리케이션/웹에 관심이 많으며 풀 스택을 지향하는 프로그래머 입니다.</div>
+<br>
+<br>
+### <div align="center">Notion : https://nice-pigeon-244.notion.site/Notion-b8486f6878a447b1b4aeaeddb3128b2c</div>
 <br>
 <br>
 
