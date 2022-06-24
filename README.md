@@ -4,7 +4,7 @@
 <br>
 <br>
 
-### <div align="center">Notion : <a href="https://nice-pigeon-244.notion.site/Notion-b8486f6878a447b1b4aeaeddb3128b2c">맥주병수집가의 Notion</a></div>
+### <div align="center"><a href="https://nice-pigeon-244.notion.site/Notion-b8486f6878a447b1b4aeaeddb3128b2c">맥주병수집가의 Notion</a></div>
 <br>
 <br>
 
